@@ -1,4 +1,4 @@
 # GRIP-Task1
 Task1: Prediction Using Supervised ML
 
-https://user-images.githubusercontent.com/60184582/172525541-ded91446-07c5-4fe8-928d-d06fd21cca07.mp4
+https://user-images.githubusercontent.com/60184582/172525784-2988b9a8-77a7-4c0a-bd25-484560392f8b.mp4
